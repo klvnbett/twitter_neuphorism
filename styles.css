@@ -1,0 +1,53 @@
+.container {
+    width: 350px;
+    height: 500px;
+    padding: 40px;
+    margin: 50px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background: #ecf0f3;
+    box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px #fff;
+}
+
+.brandlogo {
+    height: 100px;
+    width: 100px;
+    background: url(https://i.postimg.cc/HLYTvd8d/twitter-icon.png);
+    margin: auto;
+    border-radius: 50px;
+    box-sizing: border-box;
+    box-shadow: 7px 7px 10px #cbced1, -7px -7px 10px #fff;
+}
+
+.title {
+    color: #2ba4f2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-stretch: wider;
+    text-align: center;
+    height: 10px;
+}
+
+.input {
+    background: #ecf0f3;
+    padding: 10px;
+    padding-left: 20px;
+    height: 25px;
+    font-size: 20px;
+    border-radius: 50px;
+    box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px #fff;
+    border-width: 0ch;
+}
+
+.button {
+    width: 240px;
+    font-size: 20px;
+    margin-top: 20px;
+    background: #2ba4f2;
+    height: 40px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: 900;
+    transition: 0.5s;
+    box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px #fff;
+    border-width: 0ch;
+}
